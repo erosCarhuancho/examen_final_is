@@ -1,0 +1,7 @@
+organization=eroscarhuancho
+projectKey=erosCarhuancho_examen_final_is
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.30222
+dashboardUrl=https://sonarcloud.io/dashboard?id=erosCarhuancho_examen_final_is
+ceTaskId=AYHy_5DYbwK7-3OtTm_c
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYHy_5DYbwK7-3OtTm_c
